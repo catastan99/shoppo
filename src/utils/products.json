@@ -1,0 +1,139 @@
+{
+    "phones":{
+        "items":[
+            {
+                "id":1,
+                "brand":"Samsung",
+                "model":"Galaxy S21",
+                "price":4100,
+                "currency":"LEI",
+                "image":"https://images.samsung.com/is/image/samsung/p6pim/ro/galaxy-s21/gallery/ro-galaxy-s21-5g-g991-sm-g991bzvgeue-368963642?$720_576_PNG$",
+                "colour":"phantom-violet",
+                "description":"5G, Amprenta, 12 GB RAM, Rezolutie 8K, Baterie de 5000 mAh"
+            },
+            {
+                "id":2,
+                "brand":"Apple",
+                "model":"iPhone 12 Pro Max",
+                "price":6500,
+                "currency":"LEI",
+                "image":"https://s13emagst.akamaized.net/products/33078/33077713/images/res_75f89d4c37c3fecc47fa878109235efe.jpg",
+                "colour":"auriu",
+                "description":"5G, Recunoastere faciala, Rezolutie 4K, eSIM"
+            },
+            {
+                "id":3,
+                "brand":"Samsung",
+                "model":"Galaxy Note20",
+                "price":6200,
+                "currency":"LEI",
+                "image":"https://images.samsung.com/is/image/samsung/ro/galaxy-note20/gallery/ro-galaxy-note20-n980-sm-n980fzggeue-frontmysticgreen-272497924?$720_576_PNG$",
+                "colour":"auriu",
+                "description":"5G, Recunoastere faciala, Rezolutie 4K, eSIM"
+            },
+            {
+                "id":4,
+                "brand":"Nokia",
+                "model":"3310",
+                "price":100,
+                "currency":"LEI",
+                "image":"https://static.orangeromania.ro/webshop-images/hds_nok0109501/nokia_nokia_3310_blue__dual_sim__l34566_0.png",
+                "colour":"albastru",
+                "description":"5G, Recunoastere faciala, Rezolutie 4K, eSIM"
+            }
+        ],
+        "image":"https://images.pexels.com/photos/341523/pexels-photo-341523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name":"Telefoane mobile"
+    },
+    "tv":{
+        "items":[
+            {
+                "id":5,
+                "brand":"Samsung",
+                "model":"Neo QLED",
+                "price":8100,
+                "currency":"LEI",
+                "image":"https://images.samsung.com/is/image/samsung/p6pim/ro/qe75qn900atxxh/gallery/ro-qled-tv-qe75qn900atxxh-front-silver-419036132?$720_576_PNG$",
+                "colour":"negru",
+                "description":"tv super inteligent"
+            },
+            {
+                "id":6,
+                "brand":"Philips",
+                "model":"55PUS730",
+                "price":3100,
+                "currency":"LEI",
+                "image":"https://images.philips.com/is/image/PhilipsConsumer/55PUS7303_12-IMS-ro_RO?$jpglarge$&wid=1250",
+                "colour":"negru",
+                "description":"Televizor Ambilight de 139 cm, HDR Plus, LED 4K Ultra HD"
+            },
+            {
+                "id":7,
+                "brand":"LG",
+                "model":"43LM6300PLA",
+                "price":1500,
+                "currency":"LEI",
+                "image":"https://s13emagst.akamaized.net/products/23029/23028039/images/res_c387db6b98ec864451a56935a63af3ae.jpg",
+                "colour":"negru",
+                "description":"108 cm, Smart, Full HD, LED"
+            }
+            
+        ],
+        "image":"https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name":"Televizoare"
+    },
+    "laptops":{
+        "items":[
+            {
+                "id":8,
+                "brand":"Apple",
+                "model":"MacBook Pro",
+                "price":8100,
+                "currency":"LEI",
+                "image":"https://s13emagst.akamaized.net/products/26981/26980961/images/res_40bb9dbc2017ff8496fe336d9de0523e.jpg",
+                "colour":"negru",
+                "description":"16inch Touch Bar, procesor Intel® Core™ i9 2.30 GHz, 16GB, 1TB SSD, Radeon Pro 5500M 4GB, Silver, INT KB"
+            },
+            {
+                "id":9,
+                "brand":"Asus",
+                "model":"X515JA-EJ034T",
+                "price":8100,
+                "currency":"LEI",
+                "image":"https://lcdn.mediagalaxy.ro/resize/media/catalog/product/l/a/2bd48d28d1c32adea0e55139a4e6434a/laptop-asus-x515-gri-windows.jpg",
+                "colour":"gri",
+                "description":"Intel Core i3-1005G1 pana la 3.4GHz, 15.6inch Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, "
+            }
+            
+        ],
+        "image":"https://images.pexels.com/photos/4884110/pexels-photo-4884110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name":"Laptopuri"
+    },
+    "periferics":{
+        "items":[
+            {
+                "id":10,
+                "brand":"HyperX",
+                "model":"Alloy Origins",
+                "price":300,
+                "currency":"LEI",
+                "image":"https://media.kingston.com/hyperx/product/hx-product-keyboard-alloy-origins-60-us-2-zm-lg.jpg",
+                "colour":"negru",
+                "description":"iluminare RGB, switch HX-Red, USB-C"
+            },
+            {
+                "id":11,
+                "brand":"Redragon ",
+                "model":"Sniper Pro",
+                "price":300,
+                "currency":"LEI",
+                "image":"https://www.uzishop.hr/185889-thickbox_default/mouse-redragon-sniper-pro-m801p-rgb.jpg",
+                "colour":"negru",
+                "description":"iluminare RGB,119 g, 16000 dpi"
+            }
+            
+        ],
+        "image":"https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851_960_720.jpg",
+        "name":"Periferice"
+    }
+}
