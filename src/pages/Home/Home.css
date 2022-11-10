@@ -1,78 +1,69 @@
-
-.Home .container-announces{
-    background: url('../../assets/images/reduceri30.jpg');
-    background-size: 100% 100%;
-    height: 50vh;
-    width: 60%;
-    margin-left: 20%;
-    
-  }
- .Home .container-categories {
-    padding-top:20px;
-    padding-bottom:40px;
-    background-color: rgba(74, 33, 223, 0.096);
-  }
-  .Home .container-categories h1{
-    text-align: left;
-    font-size: 40px;
-    padding:10px 10px;
-    width: 60%;
-    margin-left: 20%;
-  }
-.Home .container-categories .categories-list{
-    width: 70%;
-    margin-left: 15%;
-    display: grid;
-    grid-template-columns: 48% 48%;
-    column-gap: 50px;
-    row-gap: 20px;
-    justify-items: center;
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+.Home .container-announces {
+  background: url("../../assets/images/reduceri30.jpg");
+  background-size: 100% 100%;
+  height: 50vh;
+  width: 60%;
+  margin-left: 20%;
+}
+.Home .container-categories {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: rgba(74, 33, 223, 0.096);
+}
+.Home .container-categories h1 {
+  text-align: left;
+  font-size: 40px;
+  padding: 10px 10px;
+  width: 60%;
+  margin-left: 20%;
+  font-family: "Itim", cursive;
+  color: rgb(58, 58, 58);
+}
+.Home .container-categories .categories-list {
+  width: 70%;
+  margin-left: 15%;
+  display: grid;
+  grid-template-columns: 48% 48%;
+  column-gap: 50px;
+  row-gap: 20px;
+  justify-items: center;
 }
 
-
-
-@media (max-width: 1100px) { 
-  .Home .container-categories .categories-list{
+@media (max-width: 1100px) {
+  .Home .container-categories .categories-list {
     width: 100%;
     margin-left: 0;
   }
-  .Home .container-categories h1{
+  .Home .container-categories h1 {
     margin-left: 5%;
   }
- }
+}
 
- @media (max-width: 950px) { 
-  .Home .container-categories .categories-list{
+@media (max-width: 950px) {
+  .Home .container-categories .categories-list {
     column-gap: 20px;
-    
-
   }
-
- }
- @media (max-width: 768px){
-  .Home .container-categories .categories-list{
+}
+@media (max-width: 768px) {
+  .Home .container-categories .categories-list {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-
   }
-  .Home .container-categories h1{
+  .Home .container-categories h1 {
     text-align: center;
     margin-left: 0;
     width: 90%;
   }
-
-
- }
+}
 
 @media (max-width: 425px) {
-  .Home .container-announces{
-    background: url('../../assets/images/bf-mobile.png');
+  .Home .container-announces {
+    background: url("../../assets/images/bf-mobile.png");
     background-size: 100% 100%;
     width: 100%;
     margin: 0;
   }
-  
-
 }
