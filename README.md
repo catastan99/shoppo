@@ -11,7 +11,7 @@ This is my second React app.
 * Manipulating data with Redux
 * Fetching data from a JSON file
 
-[Live](https://shoppo.stancatalin.eu)
+[Live](https://shop.stancatalin.eu)
 
 
 
